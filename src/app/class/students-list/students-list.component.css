@@ -1,0 +1,37 @@
+table {
+  margin-top: 10px;
+  width: 70%;
+  text-align: center;
+  border-width: 2px;
+  margin: auto;
+}
+td {
+  border: rgba(184, 144, 151, 0.651);
+  border-width: 2px;
+  border-style: solid;
+}
+tr {
+  border: rgba(184, 144, 151, 0.651);
+  border-width: 2px;
+  border-style: solid;
+}
+th {
+  border: rgba(184, 144, 151, 0.651);
+  border-width: 2px;
+  border-style: solid;
+}
+select {
+  margin-top: 10px;
+  width: 30%;
+  text-align: center;
+  border-width: 2px;
+  margin: auto;
+}
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
+}

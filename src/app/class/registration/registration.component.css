@@ -1,0 +1,17 @@
+form {
+  width: 40%;
+  border: rgba(184, 144, 151, 0.651);
+  border-style: double;
+  border-width: 10px;
+  padding: 5%;
+  padding-top: 10px;
+}
+.ng-valid {
+  border-left: 5px solid rgb(142, 192, 142);
+}
+.ng-invalid:not(form) {
+  border-left: 5px solid rgba(216, 117, 172, 0.952);
+}
+button {
+  margin: auto;
+}

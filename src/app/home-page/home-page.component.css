@@ -1,0 +1,10 @@
+button {
+  width: 130px;
+  height: 100px;
+  background-color: rgba(238, 209, 214, 0.911);
+  color: lightseagreen;
+  border-color: rgba(238, 209, 214, 0.911);
+}
+body {
+  background-color: mistyrose;
+}
